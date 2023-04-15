@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiba on 艾蜜莉日常部落格</title>
+    <link>https://unahung.github.io/tags/shiba/</link>
+    <description>Recent content in Shiba on 艾蜜莉日常部落格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 07 Apr 2023 15:32:00 +0800</lastBuildDate><atom:link href="https://unahung.github.io/tags/shiba/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>艾蜜莉的第一篇文章</title>
+      <link>https://unahung.github.io/blog/test/</link>
+      <pubDate>Fri, 07 Apr 2023 15:32:00 +0800</pubDate>
+      
+      <guid>https://unahung.github.io/blog/test/</guid>
+      <description>Hello world
+我是艾蜜莉
+一級標題 二級標題 六級標題 我有一隻柴犬，牠叫阿柴
+阿柴 搖呼拉圈 跑步 唱歌 阿柴 唱rap 跳舞 Have a nice day</description>
+    </item>
+    
+  </channel>
+</rss>
